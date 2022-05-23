@@ -1,5 +1,6 @@
 import { BiArchive } from "react-icons/bi";
 import Search from "./components/Search";
+import AddAppointment from "./components/AddAppointments";
 function App() {
   return (
     <div className="App container mx-auto mt-3 font-thin">
@@ -7,6 +8,7 @@ function App() {
         <BiArchive className="inline-block text-red-400 align-top" /> Your
         Appointments
       </h1>
+      <AddAppointment />
       <Search />
     </div>
   );
