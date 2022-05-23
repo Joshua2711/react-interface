@@ -1,4 +1,5 @@
-{
+ [
+ {
     "id":"1",
     "petName":"Ted",
     "ownerName":"Lisa Hartshorn",
@@ -10,7 +11,7 @@
     "id":"2",
     "petName":"Charlie",
     "ownerName":"Marc Johnson",
-    "aptNotes": "Keeps eating his own poo",
+    "aptNotes": "Charlie keeps eating his own poo",
     "aptDate": "2022-05-21 17:00"
 },
 
@@ -29,3 +30,5 @@
     "aptNotes": "Both owner and dog have a habbit of pooing on pillows",
     "aptDate": "2022-05-23 13:00"
 }
+
+ ]
